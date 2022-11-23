@@ -16,9 +16,9 @@ on:
 
 # Global environment variables
 env:
-  APPLICATION_NAME: CloudWorkshop2022
-  ENVIRONMENT_NAME: Cloudworkshop2022-env
-  AWS_REGION: eu-west-1
+  APPLICATION_NAME: aws-workshop
+  ENVIRONMENT_NAME: Awsworkshop-env
+  AWS_REGION: eu-north-1
 
 # Each workflow consists of one or many jobs
 jobs:
